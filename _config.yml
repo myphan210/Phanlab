@@ -1,0 +1,7 @@
+#theme: jekyll-theme-minimal
+title: myproject
+#baseurl: "/myproject"
+url: ""
+markdown: kramdown
+theme: jekyll-theme-minimal
+exclude: [vendor]
